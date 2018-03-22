@@ -1,0 +1,1 @@
+ErrorDocument 404 https://opp-app.herokuapp.com/404.php
